@@ -1,8 +1,8 @@
-![Banner](https://raw.githubusercontent.com/And95/And95/assets/banner.gif)
+![Banner](https://raw.githubusercontent.com/And95/And95/main/assets/banner.gif)
 
 | Hard Skills                                                               | Soft Skills                                                               |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| ![](https://raw.githubusercontent.com/And95/And95/assets/hard_skills.png) | ![](https://raw.githubusercontent.com/And95/And95/assets/soft_skills.png) |
+| ![](https://raw.githubusercontent.com/And95/And95/main/assets/hard_skills.png) | ![](https://raw.githubusercontent.com/And95/And95/main/assets/soft_skills.png) |
 
 ## 👋 Sobre mim
 
