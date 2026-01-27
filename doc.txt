@@ -1,1 +1,4 @@
 pip install matplotlib
+
+python graphics/hard_skills.py
+python graphics/soft_skills.py
