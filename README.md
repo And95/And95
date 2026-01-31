@@ -2,7 +2,9 @@
 
 
 
-[![Spotify](https://img.shields.io/badge/Spotify-Play-green?logo=spotify)](https://open.spotify.com/intl-pt/track/08mG3Y1vljYA6bvDt4Wqkj?si=1c9406b7986248e0)
+
+[![Spotify](https://img.shields.io/badge/Spotify-Play-green?logo=spotify)](https://open.spotify.com/intl-pt/track/08mG3Y1vljYA6bvDt4Wqkj?si=62578226b0df4713)
+
 | Hard Skills                                                               | Soft Skills                                                               |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | ![](https://raw.githubusercontent.com/And95/And95/main/assets/hard_skills.png) | ![](https://raw.githubusercontent.com/And95/And95/main/assets/soft_skills.png) |
