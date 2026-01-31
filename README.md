@@ -61,5 +61,5 @@ Olá! Eu sou o André Gonzaga
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/andregonzaga95/
+- LinkedIn: https://www.linkedin.com/in/andregonzaga95
 - Email: andregonzaga95@gmail.com
