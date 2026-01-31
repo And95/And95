@@ -1,5 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/And95/And95/main/assets/banner.gif)
 
+
 [![Spotify](https://img.shields.io/badge/Spotify-Play-green?logo=spotify)](https://open.spotify.com/intl-pt/track/5j3QqRGflS4o5jbsFSwKW1?si=69ea88ec47fe4c41)
 
 
