@@ -10,9 +10,23 @@
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | ![](https://raw.githubusercontent.com/And95/And95/main/assets/hard_skills.png) | ![](https://raw.githubusercontent.com/And95/And95/main/assets/soft_skills.png) |
 
+## 👋 Sobre mim
+
+Olá! Eu sou o André Gonzaga
+
+💻 Desenvolvedor Full Stack, focado em criar soluções escaláveis, acessíveis e bem estruturadas, com atenção à experiência do usuário e à qualidade do código.
+
+🌱 Em constante aprendizado, aprofundando conhecimentos em boas práticas, arquitetura de software e tecnologias modernas
+
 ## 🚀 Tecnologias & Ferramentas
 
-<div align="center">
+- **Linguagens:** JavaScript, TypeScript
+- **Frontend:** React
+- **Backend:** Node.js
+- **Banco de dados:** SQL, NoSQL
+- **APIs:** REST
+
+<div align="start">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3"/>
@@ -26,22 +40,6 @@
 
 </div>
 
-
-## 👋 Sobre mim
-
-Olá! Eu sou o André Gonzaga
-
-💻 Desenvolvedor Full Stack, focado em criar soluções escaláveis, acessíveis e bem estruturadas, com atenção à experiência do usuário e à qualidade do código.
-
-🌱 Em constante aprendizado, aprofundando conhecimentos em boas práticas, arquitetura de software e tecnologias modernas
-
-## 🛠️ Tecnologias
-
-- **Linguagens:** JavaScript, TypeScript
-- **Frontend:** React
-- **Backend:** Node.js
-- **Banco de dados:** SQL, NoSQL
-- **APIs:** REST
 
 ## 🧠 Habilidades comportamentais
 
