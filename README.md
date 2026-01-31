@@ -1,7 +1,8 @@
-![Banner](https://raw.githubusercontent.com/And95/And95/main/assets/banner.gif)
-
-
-
+<img 
+  src="https://raw.githubusercontent.com/And95/And95/main/assets/banner.gif"
+  width="100%"
+  alt="Banner"
+/>
 
 [![Spotify](https://img.shields.io/badge/Spotify-Play-green?logo=spotify)](https://open.spotify.com/intl-pt/track/08mG3Y1vljYA6bvDt4Wqkj?si=62578226b0df4713)
 
