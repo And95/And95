@@ -61,5 +61,6 @@ Olá! Eu sou o André Gonzaga
 
 ## 📫 Contato
 
+- Curriculum: https://templateforcurriculumbyandregonzaga.netlify.app
 - LinkedIn: https://www.linkedin.com/in/andregonzaga95
 - Email: andregonzaga95@gmail.com
