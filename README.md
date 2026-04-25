@@ -52,10 +52,10 @@ Olá! Eu sou o André Gonzaga
 ## 🧠 Habilidades comportamentais
 
 - Resolução de problemas
-- Comunicação
+- Comunicação Efetiva
 - Trabalho em equipe
 - Pensamento crítico
-- Aprendizado contínuo
+- Adaptabilidade e Aprendizado Contínuo
 
 ## ✨ Como eu trabalho
 
