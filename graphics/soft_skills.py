@@ -2,10 +2,10 @@ import matplotlib.pyplot as plt
 
 soft_skills = {
     "Resolução de problemas": 90,
-    "Comunicação": 85,
+    "Comunicação Efetiva": 85,
     "Trabalho em equipe": 88,
     "Pensamento crítico": 86,
-    "Aprendizado contínuo": 94
+    "Aprendizado Contínuo": 94
 }
 
 plt.figure(figsize=(6, 4))

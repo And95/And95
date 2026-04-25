@@ -2,9 +2,9 @@ import matplotlib.pyplot as plt
 
 hard_skills = {
     "JavaScript": 90,
-    "TypeScript": 80,
-    "React": 80,
-    "Node.js": 78,
+    "TypeScript": 82,
+    "React": 86,
+    "Node.js": 88,
     "SQL / PL-SQL (Oracle)": 94
 }
 
