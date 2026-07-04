@@ -64,11 +64,14 @@ Olá! Eu sou o André Gonzaga.
 - Pensamento crítico
 - Adaptabilidade e Aprendizado Contínuo
 
+
 ## ✨ Como eu trabalho
 
-- Código limpo e manutenível
+- Código limpo, manutenível e testável
+- Aplicação de boas práticas de engenharia de software e arquitetura
 - Comunicação clara e colaboração em equipe
 - Foco em resolver problemas reais
+
 
 ## 📫 Contato
 
