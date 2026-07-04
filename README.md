@@ -31,6 +31,7 @@ Olá! Eu sou o André Gonzaga.
 - **APIs:** REST, OpenAPI
 - **Cloud (AWS):** S3, Elastic Beanstalk, CodeBuild, CodePipeline
 - **DevOps:** Docker, Git, CI/CD
+- **IA:** Prompt Engineering, IA Generativa, Assistentes de IA para Desenvolvimento
 
 
 <div align="start">
