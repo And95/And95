@@ -15,7 +15,7 @@
 
 Olá! Eu sou o André Gonzaga.
 
-👨‍💻 Desenvolvedor Full Stack focado em construir aplicações escaláveis, acessíveis e de alta qualidade, utilizando boas práticas de engenharia de software e arquitetura.
+👨‍💻 Desenvolvedor Full Stack focado na construção de aplicações escaláveis, acessíveis e de alta qualidade, aplicando boas práticas de engenharia de software e arquitetura.
 
 🌱 Atualmente aprofundando conhecimentos em Arquitetura de Software, Cloud (AWS), DevOps e desenvolvimento de aplicações modernas.
 
