@@ -28,6 +28,8 @@ Olá! Eu sou o André Gonzaga
 - **Backend:** Node.js
 - **Banco de dados:** SQL, NoSQL
 - **APIs:** REST
+- **Cloud (AWS):** S3, Elastic Beanstalk, CodeBuild, CodePipeline
+- **DevOps:** Docker
 
 <div align="start">
 
