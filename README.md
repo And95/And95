@@ -51,8 +51,8 @@ Olá! Eu sou o André Gonzaga.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="44"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="44"/>
-
 </div>
+
 <br/><br/>
 ## 🧠 Habilidades comportamentais
 
