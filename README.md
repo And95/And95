@@ -10,7 +10,7 @@
 | Hard Skills                                                               | Soft Skills                                                               |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | ![](https://raw.githubusercontent.com/And95/And95/main/assets/hard_skills.png) | ![](https://raw.githubusercontent.com/And95/And95/main/assets/soft_skills.png) |
-
+<br/><br/>
 ## 👋 Sobre mim
 
 Olá! Eu sou o André Gonzaga.
