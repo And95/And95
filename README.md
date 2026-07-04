@@ -21,6 +21,7 @@ Olá! Eu sou o André Gonzaga.
 🌱 Atualmente aprofundando conhecimentos em Arquitetura de Software, Cloud (AWS), DevOps e desenvolvimento de aplicações modernas.
 
 🖥️ Disponho de equipamento próprio, ambiente profissional adequado e infraestrutura preparada para atuação em regime remoto.
+
 <br/>
 
 ## 🚀 Tecnologias & Ferramentas
