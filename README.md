@@ -10,6 +10,7 @@
 | Hard Skills                                                               | Soft Skills                                                               |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | ![](https://raw.githubusercontent.com/And95/And95/main/assets/hard_skills.png) | ![](https://raw.githubusercontent.com/And95/And95/main/assets/soft_skills.png) |
+
 <br/><br/>
 ## 👋 Sobre mim
 
@@ -20,6 +21,7 @@ Olá! Eu sou o André Gonzaga.
 🌱 Atualmente aprofundando conhecimentos em Arquitetura de Software, Cloud (AWS), DevOps e desenvolvimento de aplicações modernas.
 
 🖥️ Disponho de equipamento próprio, ambiente profissional adequado e infraestrutura preparada para atuação em regime remoto.
+
 <br/><br/>
 ## 🚀 Tecnologias & Ferramentas
 
@@ -61,6 +63,7 @@ Olá! Eu sou o André Gonzaga.
 - Trabalho em equipe
 - Pensamento crítico
 - Adaptabilidade e Aprendizado Contínuo
+
 <br/><br/>
 ## ✨ Como eu trabalho
 
@@ -68,6 +71,7 @@ Olá! Eu sou o André Gonzaga.
 - Aplicação de boas práticas de engenharia de software e arquitetura
 - Comunicação clara e colaboração em equipe
 - Foco em resolver problemas reais
+
 <br/><br/>
 ## 📫 Contato
 
