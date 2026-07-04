@@ -11,7 +11,7 @@
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | ![](https://raw.githubusercontent.com/And95/And95/main/assets/hard_skills.png) | ![](https://raw.githubusercontent.com/And95/And95/main/assets/soft_skills.png) |
 
-<br/><br/>
+<br/>
 ## 👋 Sobre mim
 
 Olá! Eu sou o André Gonzaga.
@@ -22,7 +22,7 @@ Olá! Eu sou o André Gonzaga.
 
 🖥️ Disponho de equipamento próprio, ambiente profissional adequado e infraestrutura preparada para atuação em regime remoto.
 
-<br/><br/>
+<br/>
 ## 🚀 Tecnologias & Ferramentas
 
 - **Linguagens:** JavaScript, TypeScript
@@ -55,7 +55,7 @@ Olá! Eu sou o André Gonzaga.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="44"/>
 </div>
 
-<br/><br/>
+<br/>
 ## 🧠 Habilidades comportamentais
 
 - Resolução de problemas
@@ -64,7 +64,7 @@ Olá! Eu sou o André Gonzaga.
 - Pensamento crítico
 - Adaptabilidade e Aprendizado Contínuo
 
-<br/><br/>
+<br/>
 ## ✨ Como eu trabalho
 
 - Código limpo, manutenível e testável
@@ -72,7 +72,7 @@ Olá! Eu sou o André Gonzaga.
 - Comunicação clara e colaboração em equipe
 - Foco em resolver problemas reais
 
-<br/><br/>
+<br/>
 ## 📫 Contato
 
 - Curriculum: [André Luiz Soares Gonzaga](https://templateforcurriculumbyandregonzaga.netlify.app)
