@@ -10,8 +10,8 @@
 | Hard Skills                                                               | Soft Skills                                                               |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | ![](https://raw.githubusercontent.com/And95/And95/main/assets/hard_skills.png) | ![](https://raw.githubusercontent.com/And95/And95/main/assets/soft_skills.png) |
-
 <br/>
+
 ## 👋 Sobre mim
 
 Olá! Eu sou o André Gonzaga.
@@ -21,8 +21,8 @@ Olá! Eu sou o André Gonzaga.
 🌱 Atualmente aprofundando conhecimentos em Arquitetura de Software, Cloud (AWS), DevOps e desenvolvimento de aplicações modernas.
 
 🖥️ Disponho de equipamento próprio, ambiente profissional adequado e infraestrutura preparada para atuação em regime remoto.
-
 <br/>
+
 ## 🚀 Tecnologias & Ferramentas
 
 - **Linguagens:** JavaScript, TypeScript
@@ -54,8 +54,8 @@ Olá! Eu sou o André Gonzaga.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="44"/>
 </div>
-
 <br/>
+
 ## 🧠 Habilidades comportamentais
 
 - Resolução de problemas
@@ -63,16 +63,16 @@ Olá! Eu sou o André Gonzaga.
 - Trabalho em equipe
 - Pensamento crítico
 - Adaptabilidade e Aprendizado Contínuo
-
 <br/>
+
 ## ✨ Como eu trabalho
 
 - Código limpo, manutenível e testável
 - Aplicação de boas práticas de engenharia de software e arquitetura
 - Comunicação clara e colaboração em equipe
 - Foco em resolver problemas reais
-
 <br/>
+
 ## 📫 Contato
 
 - Curriculum: [André Luiz Soares Gonzaga](https://templateforcurriculumbyandregonzaga.netlify.app)
