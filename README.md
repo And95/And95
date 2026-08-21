@@ -68,6 +68,7 @@ No portfólio estão disponíveis meus principais projetos, tecnologias utilizad
 📄 **[Acesse meu currículo online](https://templateforcurriculumbyandregonzaga.netlify.app/)**
 
 Meu currículo online apresenta minha **trajetória profissional, formação, experiências, competências e cases profissionais estruturados pelo método STAR**, destacando situações, desafios, ações realizadas e resultados alcançados.
+<br/>
 
 ## 🧠 Habilidades comportamentais
 
