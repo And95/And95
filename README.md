@@ -57,6 +57,18 @@ Olá! Eu sou o André Gonzaga.
 </div>
 <br/>
 
+## 🚀 Projetos & Portfólio
+
+Além da experiência profissional, desenvolvo projetos práticos para aplicar e aprofundar conhecimentos em **Engenharia de Software, desenvolvimento Full Stack, Arquitetura de Software, bancos de dados, testes e DevOps**.
+
+🔗 **[Acesse meu portfólio completo](https://portifoliobyandreg.vercel.app/)**
+
+No portfólio estão disponíveis meus principais projetos, tecnologias utilizadas, decisões técnicas e detalhes sobre minha trajetória profissional e formação.
+
+📄 **[Acesse meu currículo online](https://templateforcurriculumbyandregonzaga.netlify.app/)**
+
+Meu currículo online apresenta minha **trajetória profissional, formação, experiências, competências e cases profissionais estruturados pelo método STAR**, destacando situações, desafios, ações realizadas e resultados alcançados.
+
 ## 🧠 Habilidades comportamentais
 
 - Resolução de problemas
