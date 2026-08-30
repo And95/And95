@@ -54,7 +54,7 @@ Olá! Eu sou o André Gonzaga.
 <img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
   height="44"
-  style="filter: brightness(5.4);"
+  style="filter: brightness(10.4);"
 />
 
 </div>
