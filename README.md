@@ -74,7 +74,7 @@ No portfólio estão disponíveis meus principais projetos, tecnologias utilizad
 
 📄 **[Acesse meu currículo online](https://templateforcurriculumbyandregonzaga.netlify.app/)**
 
-<a href="https://templateforcurriculumbyandregonzaga.netlify.app/"> <img src="https://raw.githubusercontent.com/And95/And95/main/assets/](https://raw.githubusercontent.com/And95/And95/main/assets/curriculum.png" width="100%" alt="Acesse meu currículo online" /> </a>
+<a href="https://templateforcurriculumbyandregonzaga.netlify.app/"> <img src="https://raw.githubusercontent.com/And95/And95/main/assets/curriculum.png" width="100%" alt="Acesse meu currículo online" /> </a>
 
 Meu currículo online apresenta minha **trajetória profissional, formação, experiências, competências e cases profissionais estruturados pelo método STAR**, destacando situações, desafios, ações realizadas e resultados alcançados.
 
