@@ -68,13 +68,17 @@ Além da experiência profissional, desenvolvo projetos práticos para aplicar e
 
 🔗 **[Acesse meu portfólio completo](https://portifoliobyandreg.vercel.app/)**
 
-<a href="https://portifoliobyandreg.vercel.app/"> <img src="https://raw.githubusercontent.com/And95/And95/main/assets/portfolio.png" width="100%" alt="Acesse meu portfólio" /> </a>
+<a href="https://portifoliobyandreg.vercel.app/">
+  <img src="https://raw.githubusercontent.com/And95/And95/main/assets/portfolio.png" width="100%" alt="Acesse meu portfólio" />
+</a>
 
 No portfólio estão disponíveis meus principais projetos, tecnologias utilizadas, decisões técnicas e detalhes sobre minha trajetória profissional e formação.
 
 📄 **[Acesse meu currículo online](https://templateforcurriculumbyandregonzaga.netlify.app/)**
 
-<a href="https://templateforcurriculumbyandregonzaga.netlify.app/"> <img src="https://raw.githubusercontent.com/And95/And95/main/assets/curriculum.png" width="100%" alt="Acesse meu currículo online" /> </a>
+<a href="https://templateforcurriculumbyandregonzaga.netlify.app/">
+  <img src="https://raw.githubusercontent.com/And95/And95/main/assets/curriculum.png" width="100%" alt="Acesse meu currículo online" />
+</a>
 
 Meu currículo online apresenta minha **trajetória profissional, formação, experiências, competências e cases profissionais estruturados pelo método STAR**, destacando situações, desafios, ações realizadas e resultados alcançados.
 
