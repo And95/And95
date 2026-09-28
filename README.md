@@ -4,7 +4,6 @@
   alt="Banner"
 />
 <img src="https://komarev.com/ghpvc/?username=And95&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-![Profile views](https://komarev.com/ghpvc/?username=And95)
 [![Spotify](https://img.shields.io/badge/Spotify-Play-green?logo=spotify)](https://open.spotify.com/intl-pt/track/08mG3Y1vljYA6bvDt4Wqkj?si=62578226b0df4713)
 
 
