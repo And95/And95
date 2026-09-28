@@ -37,6 +37,7 @@ Olá! Eu sou o André Gonzaga.
 - **Design & Prototipação**: Figma, Adobe Photoshop, Adobe Illustrator, Adobe XD
 - **Cloud (AWS):** S3, Elastic Beanstalk, CodeBuild, CodePipeline
 - **DevOps:** Docker, Git, CI/CD
+- **Metodologias & Práticas**: Scrum, Kanban, metodologias ágeis, trabalho colaborativo
 - **IA aplicada ao desenvolvimento:** IA Generativa, Prompt Engineering
 
 <div align="start">
