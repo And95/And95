@@ -31,7 +31,7 @@ Olá! Eu sou o André Gonzaga.
 - **Linguagens:** JavaScript, TypeScript, SQL, PL/SQL
 - **Frontend:** React, Next.js
 - **Backend:** Node.js, NestJS
-- **Arquitetura & Engenharia**: Arquitetura de Software, SOLID, Design Patterns, Clean Code, APIs REST
+- **Arquitetura & Engenharia**: Arquitetura de Software, SOLID, Design Patterns, Clean Code
 - **Banco de dados:** Oracle, MySQL, PostgreSQL, MongoDB, Redis
 - **APIs:** REST, OpenAPI
 - **Design & Prototipação**: Figma, Adobe Photoshop, Adobe Illustrator, Adobe XD
