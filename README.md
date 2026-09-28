@@ -40,6 +40,7 @@ Olá! Eu sou o André Gonzaga.
 - **Metodologias & Práticas**: Scrum, Kanban, metodologias ágeis, trabalho colaborativo
 - **IA aplicada ao desenvolvimento:** IA Generativa, Prompt Engineering
 
+
 <div align="start">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44"/>
