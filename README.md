@@ -90,6 +90,8 @@ Meu currículo online apresenta minha **trajetória profissional, formação, ex
 
 ## 📫 Contato
 
-- Curriculum: [André Luiz Soares Gonzaga](https://templateforcurriculumbyandregonzaga.netlify.app)
-- LinkedIn: [linkedin.com/in/andregonzaga95](https://www.linkedin.com/in/andregonzaga95)
-- Email: andregonzaga95@gmail.com
+* 📄 **Currículo:** [André Luiz Soares Gonzaga](https://templateforcurriculumbyandregonzaga.netlify.app)
+* 💼 **LinkedIn:** [linkedin.com/in/andregonzaga95](https://www.linkedin.com/in/andregonzaga95)
+* 📧 **E-mail:** [andregonzaga95@gmail.com](mailto:andregonzaga95@gmail.com)
+* 💬 **WhatsApp:** [Entrar em contato](https://wa.me/5582987077520)
+
