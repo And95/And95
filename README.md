@@ -16,7 +16,9 @@
 
 Olá! Eu sou o André Gonzaga.
 
-👨‍💻 Engenheiro de Software Full Stack com experiência em desenvolvimento de aplicações, APIs, integrações, bancos de dados SQL/NoSQL, migração de dados e Arquitetura de Software, com atuação em JavaScript/TypeScript, React, Next.js, Node.js, NestJS e Oracle/PLSQL.
+👨‍💻 Engenheiro de Software Full Stack com experiência em desenvolvimento de aplicações, APIs, integrações, bancos de dados SQL/NoSQL e migração de dados, com atuação em JavaScript/TypeScript, React, Next.js, Node.js, NestJS e Oracle/PLSQL.
+
+🏗️ Interesse e atuação em Arquitetura de Software, buscando desenvolver sistemas organizados, escaláveis, manuteníveis e testáveis, aplicando princípios de engenharia de software, boas práticas e padrões arquiteturais.
 
 🌱 Atualmente aprofundando conhecimentos em Arquitetura de Software, Cloud (AWS), DevOps e desenvolvimento de aplicações modernas.
 
@@ -29,6 +31,7 @@ Olá! Eu sou o André Gonzaga.
 - **Linguagens:** JavaScript, TypeScript, SQL, PL/SQL
 - **Frontend:** React, Next.js
 - **Backend:** Node.js, NestJS
+- **Arquitetura & Engenharia**: Arquitetura de Software, SOLID, Design Patterns, Clean Code, APIs REST
 - **Banco de dados:** Oracle, MySQL, PostgreSQL, MongoDB, Redis
 - **APIs:** REST, OpenAPI
 - **Design & Prototipação**: Figma, Adobe Photoshop, Adobe Illustrator, Adobe XD
