@@ -66,7 +66,7 @@ Olá! Eu sou o André Gonzaga.
 
 Além da experiência profissional, desenvolvo projetos práticos para aplicar e aprofundar conhecimentos em **Engenharia de Software, desenvolvimento Full Stack, Arquitetura de Software, Bancos de dados, Testes e DevOps**.
 
-🔗 **[Acesse meu portfólio completo](https://portifoliobyandreg.vercel.app/)**
+🔗 **[Acesse meu portfólio completo](https://portfoliobyandreg.vercel.app/)**
 
 No portfólio estão disponíveis meus principais projetos, tecnologias utilizadas, decisões técnicas e detalhes sobre minha trajetória profissional e formação.
 
