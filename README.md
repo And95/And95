@@ -33,7 +33,7 @@ Olá! Eu sou o André Gonzaga.
 - **Backend:** Node.js, NestJS
 - **Arquitetura & Engenharia**: Arquitetura de Software, SOLID, Design Patterns, Clean Code
 - **Banco de dados:** Oracle, MySQL, PostgreSQL, MongoDB, Redis
-- **APIs:** REST, OpenAPI
+- **APIs:** REST, OpenAPI, GraphiQL
 - **Design & Prototipação**: Figma, Adobe Photoshop, Adobe Illustrator, Adobe XD
 - **Cloud (AWS):** S3, Elastic Beanstalk, CodeBuild, CodePipeline
 - **DevOps:** Docker, Git, CI/CD
@@ -50,6 +50,8 @@ Olá! Eu sou o André Gonzaga.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="44"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-original.svg" height="44"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" height="44"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="44"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44"/>
