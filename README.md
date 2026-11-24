@@ -1,5 +1,5 @@
 <img 
-  src="https://raw.githubusercontent.com/And95/And95/main/assets/banner.gif"
+  src="https://raw.githubusercontent.com/And95/And95/main/assets/new_banner.gif"
   width="100%"
   alt="Banner"
 />
