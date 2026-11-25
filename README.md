@@ -94,15 +94,6 @@ Meu currículo online apresenta minha **trajetória profissional, formação, ex
 
 <br/>
 
-## 🧠 Habilidades comportamentais
-
-- Resolução de problemas
-- Comunicação Efetiva
-- Trabalho em equipe
-- Pensamento crítico
-- Adaptabilidade e Aprendizado Contínuo
-<br/>
-
 ## ✨ Como eu trabalho
 
 - Código limpo, manutenível e testável
