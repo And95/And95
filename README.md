@@ -38,7 +38,7 @@
       <br/><br/>
       Modelagem, persistência, consultas e processamento de dados.
       <br/><br/>
-      <strong>SQL · PL/SQL</strong>
+      <strong>SQL · NoSQL · PL/SQL</strong>
     </td>
     <td align="center" valign="top" width="50%">
       <h3>🏗️ Software Engineering & Architecture</h3>
