@@ -104,20 +104,19 @@ Olá! Eu sou o André Gonzaga.
 
 <br/>
 
-## 🚀 Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 - **Linguagens:** JavaScript, TypeScript, SQL, PL/SQL
-- **Frontend:** React, Next.js
-- **Backend:** Node.js, NestJS
-- **Arquitetura & Engenharia**: Arquitetura de Software, SOLID, Design Patterns, Clean Code
-- **Banco de dados:** Oracle, MySQL, PostgreSQL, MongoDB, Redis
-- **APIs:** REST, OpenAPI, GraphiQL
-- **Design & Prototipação**: Figma, Adobe Photoshop, Adobe Illustrator, Adobe XD
-- **Cloud (AWS):** S3, Elastic Beanstalk, CodeBuild, CodePipeline
-- **DevOps:** Docker, Git, CI/CD
-- **Metodologias & Práticas**: Scrum, Kanban, metodologias ágeis, trabalho colaborativo
+- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS, Styled Components
+- **Backend:** Node.js, NestJS, Express, REST APIs, GraphQL, Prisma ORM, JWT, Axios
+- **Arquitetura & Engenharia de Software:** DDD, SOLID, Clean Code, Design Patterns, Clean Architecture, Modular Architecture
+- **Bancos de Dados:** Oracle, PostgreSQL, MySQL, MongoDB, Redis
+- **APIs & Documentação:** REST, GraphQL, OpenAPI
+- **Testes & Qualidade:** Jest, Vitest, Playwright, Cypress, React Testing Library
+- **Cloud & DevOps:** AWS, S3, Elastic Beanstalk, CodeBuild, CodePipeline, Docker, Git, GitHub, CI/CD
+- **Design & Prototipação:** Figma, Adobe Photoshop, Adobe Illustrator, Adobe XD
+- **Metodologias & Práticas:** Scrum, Kanban, metodologias ágeis, colaboração e trabalho em equipe
 - **IA aplicada ao desenvolvimento:** IA Generativa, Prompt Engineering
-
 
 <div align="start">
 
