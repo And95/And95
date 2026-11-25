@@ -6,12 +6,11 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=And95&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> -->
 [![Spotify](https://img.shields.io/badge/Spotify-Play-green?logo=spotify)](https://open.spotify.com/intl-pt/track/08mG3Y1vljYA6bvDt4Wqkj?si=62578226b0df4713)
 
-
 ## 💻 Hard Skills
 
 <table>
   <tr>
-    <td align="center" valign="top" width="33.33%">
+    <td align="center" valign="top" width="50%">
       <h3>🎨 Frontend Development</h3>
       <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
       <br/>
@@ -19,7 +18,7 @@
       <br/><br/>
       Desenvolvimento de interfaces e aplicações web modernas.
     </td>
-    <td align="center" valign="top" width="33.33%">
+    <td align="center" valign="top" width="50%">
       <h3>⚙️ Backend Development</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
       <br/><br/>
@@ -27,7 +26,9 @@
       <br/><br/>
       <strong>REST APIs · GraphQL · Prisma ORM · TypeORM · JWT · Axios</strong>
     </td>
-    <td align="center" valign="top" width="33.33%">
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
       <h3>🗄️ Database & Data Engineering</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45"/>
       <br/>
@@ -39,9 +40,7 @@
       <br/><br/>
       <strong>SQL · PL/SQL</strong>
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="33.33%">
+    <td align="center" valign="top" width="50%">
       <h3>🏗️ Software Engineering & Architecture</h3>
       <br/>
       <strong>DDD · SOLID · Clean Code · Design Patterns</strong>
@@ -50,7 +49,9 @@
       <br/><br/>
       Estruturação, modelagem de domínio, qualidade e manutenibilidade de software.
     </td>
-    <td align="center" valign="top" width="33.33%">
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
       <h3>🧪 Testing & Quality</h3>
       <img src="https://skillicons.dev/icons?i=jest,cypress" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="48"/>
@@ -59,7 +60,7 @@
       <br/><br/>
       Testes automatizados, validação e qualidade de software.
     </td>
-    <td align="center" valign="top" width="33.33%">
+    <td align="center" valign="top" width="50%">
       <h3>☁️ DevOps & Cloud</h3>
       <img src="https://skillicons.dev/icons?i=docker,git" />
       <br/>
@@ -71,7 +72,6 @@
     </td>
   </tr>
 </table>
-
 
 <br/>
 
