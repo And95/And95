@@ -6,6 +6,22 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=And95&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> -->
 [![Spotify](https://img.shields.io/badge/Spotify-Play-green?logo=spotify)](https://open.spotify.com/intl-pt/track/08mG3Y1vljYA6bvDt4Wqkj?si=62578226b0df4713)
 
+<div align="center">
+
+## 🧠 Mindset · Teste de Perfil
+
+<p>
+  Avaliação de perfil e características comportamentais.
+</p>
+
+<img
+  src="https://raw.githubusercontent.com/And95/And95/main/assets/mindset.png"
+  width="100%"
+  alt="Resultado do Teste de Perfil Mindset"
+/>
+
+</div>
+
 
 | Hard Skills                                                               | Soft Skills                                                               |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
