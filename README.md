@@ -75,8 +75,6 @@
 
 <br/>
 
-<div align="center">
-
 ## 🧠 Mindset · Teste de Perfil
 
 <p>
@@ -88,8 +86,6 @@
   width="100%"
   alt="Resultado do Teste de Perfil Mindset"
 />
-
-</div>
 
 ## 👋🏻 Sobre mim
 
