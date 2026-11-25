@@ -6,6 +6,60 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=And95&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> -->
 [![Spotify](https://img.shields.io/badge/Spotify-Play-green?logo=spotify)](https://open.spotify.com/intl-pt/track/08mG3Y1vljYA6bvDt4Wqkj?si=62578226b0df4713)
 
+<h2 align="center">💻 Hard Skills</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎨 Frontend Development</h3>
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,html,css,tailwind,styledcomponents" />
+    <br/><br/>
+      Desenvolvimento de interfaces e aplicações web modernas.
+    </td>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend Development</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+      <br/><br/>
+      APIs, serviços, regras de negócio e integrações.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>🗄️ Database & Data Engineering</h3>
+      <img src="https://skillicons.dev/icons?i=oracle,postgres,mysql,mongodb,redis" />
+      <br/><br/>
+      Modelagem, persistência, consultas e processamento de dados.
+    </td>
+    <td align="center" width="50%">
+      <h3>🏗️ Software Architecture & Engineering</h3>
+      <br/>
+      <strong>SOLID · Clean Code · Design Patterns</strong>
+      <br/><br/>
+      Arquitetura, organização, qualidade e manutenibilidade de software.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>🧪 Testing & Quality</h3>
+      <img src="https://skillicons.dev/icons?i=jest,cypress" />
+      <br/><br/>
+      Testes automatizados, validação e qualidade de software.
+    </td>
+    <td align="center" width="50%">
+      <h3>☁️ DevOps & Cloud</h3>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,aws" />
+      <br/><br/>
+      Containerização, versionamento, CI/CD e infraestrutura cloud.
+    </td>
+  </tr>
+</table>
+
+</div>
+
 <div align="center">
 
 ## 🧠 Mindset · Teste de Perfil
