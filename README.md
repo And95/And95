@@ -14,13 +14,13 @@
   <tr>
     <td align="center" width="50%">
       <h3>🎨 Frontend Development</h3>
-      <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,html,css,tailwind,styledcomponents" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,styledcomponents,mui" />
     <br/><br/>
       Desenvolvimento de interfaces e aplicações web modernas.
     </td>
     <td align="center" width="50%">
       <h3>⚙️ Backend Development</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
       <br/><br/>
       APIs, serviços, regras de negócio e integrações.
     </td>
@@ -45,7 +45,7 @@
   <tr>
     <td align="center" width="50%">
       <h3>🧪 Testing & Quality</h3>
-      <img src="https://skillicons.dev/icons?i=jest,cypress" />
+      <img src="https://skillicons.dev/icons?i=jest,cypress,playwright" />
       <br/><br/>
       Testes automatizados, validação e qualidade de software.
     </td>
