@@ -6,118 +6,72 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=And95&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> -->
 [![Spotify](https://img.shields.io/badge/Spotify-Play-green?logo=spotify)](https://open.spotify.com/intl-pt/track/08mG3Y1vljYA6bvDt4Wqkj?si=62578226b0df4713)
 
-<h2 align="center">💻 Hard Skills</h2>
 
-<div align="center">
+## 💻 Hard Skills
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="33.33%">
       <h3>🎨 Frontend Development</h3>
-
-      <p>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
-      </p>
-
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,styledcomponents,mui" />
-      </p>
-
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,styledcomponents,mui" />
+      <br/><br/>
       Desenvolvimento de interfaces e aplicações web modernas.
     </td>
-
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="33.33%">
       <h3>⚙️ Backend Development</h3>
-
-      <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-      </p>
-
-      APIs, serviços, regras de negócio e integrações.
-
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
       <br/><br/>
-
+      APIs, serviços, regras de negócio e integrações.
+      <br/><br/>
       <strong>REST APIs · GraphQL · Prisma ORM · TypeORM · JWT · Axios</strong>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="33.33%">
       <h3>🗄️ Database & Data Engineering</h3>
-
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45"/>
-      </p>
-
-      <p>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-      </p>
-
-      <p>
-        <img src="https://skillicons.dev/icons?i=mongodb,redis" />
-      </p>
-
-      Modelagem, persistência, consultas e processamento de dados.
-
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45"/>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=mongodb,redis" />
       <br/><br/>
-
+      Modelagem, persistência, consultas e processamento de dados.
+      <br/><br/>
       <strong>SQL · PL/SQL</strong>
     </td>
-
-    <td align="center" width="50%">
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33.33%">
       <h3>🏗️ Software Engineering & Architecture</h3>
-
       <br/>
-
       <strong>DDD · SOLID · Clean Code · Design Patterns</strong>
-
       <br/><br/>
-
       <strong>Clean Architecture · Modular Architecture</strong>
-
       <br/><br/>
-
       Estruturação, modelagem de domínio, qualidade e manutenibilidade de software.
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="33.33%">
       <h3>🧪 Testing & Quality</h3>
-
-      <p>
-        <img src="https://skillicons.dev/icons?i=jest,cypress" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="48"/>
-      </p>
-
-      <p>
-        <strong>Vitest · React Testing Library</strong>
-      </p>
-
+      <img src="https://skillicons.dev/icons?i=jest,cypress" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="48"/>
+      <br/><br/>
+      <strong>Vitest · React Testing Library</strong>
+      <br/><br/>
       Testes automatizados, validação e qualidade de software.
     </td>
-
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="33.33%">
       <h3>☁️ DevOps & Cloud</h3>
-
-      <p>
-        <img src="https://skillicons.dev/icons?i=docker,git" />
-      </p>
-
-      <p>
-        <img src="https://skillicons.dev/icons?i=github,aws" />
-      </p>
-
-      Containerização, versionamento, pipelines e infraestrutura cloud.
-
+      <img src="https://skillicons.dev/icons?i=docker,git" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=github,aws" />
       <br/><br/>
-
+      Containerização, versionamento, pipelines e infraestrutura cloud.
+      <br/><br/>
       <strong>CI/CD · S3 · CodeBuild · CodePipeline · Elastic Beanstalk</strong>
     </td>
   </tr>
 </table>
 
-</div>
 
 <br/>
 
