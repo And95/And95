@@ -15,7 +15,7 @@
     <td align="center" width="50%">
       <h3>🎨 Frontend Development</h3>
       <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,styledcomponents,mui" />
-    <br/><br/>
+      <br/><br/>
       Desenvolvimento de interfaces e aplicações web modernas.
     </td>
     <td align="center" width="50%">
@@ -29,7 +29,8 @@
   <tr>
     <td align="center" width="50%">
       <h3>🗄️ Database & Data Engineering</h3>
-      <img src="https://skillicons.dev/icons?i=oracle,postgres,mysql,mongodb,redis" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45"/>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
       <br/><br/>
       Modelagem, persistência, consultas e processamento de dados.
     </td>
@@ -45,7 +46,8 @@
   <tr>
     <td align="center" width="50%">
       <h3>🧪 Testing & Quality</h3>
-      <img src="https://skillicons.dev/icons?i=jest,cypress,playwright" />
+      <img src="https://skillicons.dev/icons?i=jest,cypress" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="48"/>
       <br/><br/>
       Testes automatizados, validação e qualidade de software.
     </td>
@@ -60,9 +62,9 @@
 
 </div>
 
-<div align="center">
-
 <br/>
+
+<div align="center">
 
 ## 🧠 Mindset · Teste de Perfil
 
