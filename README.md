@@ -14,16 +14,29 @@
   <tr>
     <td align="center" width="50%">
       <h3>🎨 Frontend Development</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,styledcomponents,mui" />
-      <br/><br/>
+
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
+      </p>
+
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,styledcomponents,mui" />
+      </p>
+
       Desenvolvimento de interfaces e aplicações web modernas.
     </td>
+
     <td align="center" width="50%">
       <h3>⚙️ Backend Development</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-      <br/><br/>
+
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+      </p>
+
       APIs, serviços, regras de negócio e integrações.
+
       <br/><br/>
+
       <strong>REST APIs · GraphQL · Prisma ORM · TypeORM · JWT · Axios</strong>
     </td>
   </tr>
@@ -31,20 +44,39 @@
   <tr>
     <td align="center" width="50%">
       <h3>🗄️ Database & Data Engineering</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45"/>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-      <br/><br/>
+
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45"/>
+      </p>
+
+      <p>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+      </p>
+
+      <p>
+        <img src="https://skillicons.dev/icons?i=mongodb,redis" />
+      </p>
+
       Modelagem, persistência, consultas e processamento de dados.
+
       <br/><br/>
+
       <strong>SQL · PL/SQL</strong>
     </td>
+
     <td align="center" width="50%">
       <h3>🏗️ Software Engineering & Architecture</h3>
+
       <br/>
+
       <strong>DDD · SOLID · Clean Code · Design Patterns</strong>
+
       <br/><br/>
+
       <strong>Clean Architecture · Modular Architecture</strong>
+
       <br/><br/>
+
       Estruturação, modelagem de domínio, qualidade e manutenibilidade de software.
     </td>
   </tr>
@@ -52,19 +84,34 @@
   <tr>
     <td align="center" width="50%">
       <h3>🧪 Testing & Quality</h3>
-      <img src="https://skillicons.dev/icons?i=jest,cypress" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="48"/>
-      <br/><br/>
+
+      <p>
+        <img src="https://skillicons.dev/icons?i=jest,cypress" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="48"/>
+      </p>
+
+      <p>
+        <strong>Vitest · React Testing Library</strong>
+      </p>
+
       Testes automatizados, validação e qualidade de software.
-      <br/><br/>
-      <strong>Vitest · React Testing Library</strong>
     </td>
+
     <td align="center" width="50%">
       <h3>☁️ DevOps & Cloud</h3>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,aws" />
-      <br/><br/>
+
+      <p>
+        <img src="https://skillicons.dev/icons?i=docker,git" />
+      </p>
+
+      <p>
+        <img src="https://skillicons.dev/icons?i=github,aws" />
+      </p>
+
       Containerização, versionamento, pipelines e infraestrutura cloud.
+
       <br/><br/>
+
       <strong>CI/CD · S3 · CodeBuild · CodePipeline · Elastic Beanstalk</strong>
     </td>
   </tr>
