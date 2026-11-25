@@ -37,7 +37,7 @@
     <td align="center" width="50%">
       <h3>🏗️ Software Architecture & Engineering</h3>
       <br/>
-      <strong>SOLID · Clean Code · Design Patterns</strong>
+      <strong>DDD · SOLID · Clean Code · Design Patterns</strong>
       <br/><br/>
       Arquitetura, organização, qualidade e manutenibilidade de software.
     </td>
