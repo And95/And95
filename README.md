@@ -24,7 +24,7 @@
       <br/><br/>
       APIs, serviços, regras de negócio e integrações.
       <br/><br/>
-      <strong>REST APIs · GraphQL · Prisma ORM · JWT · Axios</strong>
+      <strong>REST APIs · GraphQL · Prisma ORM · TypeORM · JWT · Axios</strong>
     </td>
   </tr>
 
