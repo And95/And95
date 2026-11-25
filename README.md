@@ -107,7 +107,7 @@ Olá! Eu sou o André Gonzaga.
 ## 🛠️ Tecnologias & Ferramentas
 
 - **Linguagens:** JavaScript, TypeScript, SQL, PL/SQL
-- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS, Styled Components
+- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS, Styled Components, Material ui
 - **Backend:** Node.js, NestJS, Express, REST APIs, GraphQL, Prisma ORM, JWT, Axios
 - **Arquitetura & Engenharia de Software:** DDD, SOLID, Clean Code, Design Patterns, Clean Architecture, Modular Architecture
 - **Bancos de Dados:** Oracle, PostgreSQL, MySQL, MongoDB, Redis
