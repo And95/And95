@@ -94,11 +94,11 @@
 
 Olá! Eu sou o André Gonzaga.
 
-👨‍💻 Engenheiro de Software Full Stack com experiência em desenvolvimento de aplicações, APIs, integrações, bancos de dados SQL/NoSQL e migração de dados, com atuação em JavaScript/TypeScript, React, Next.js, Node.js, NestJS e Oracle/PLSQL.
+👨‍💻 Engenheiro de Software Full Stack com experiência em desenvolvimento de aplicações, APIs, integrações, bancos de dados e migração de dados, atuando com JavaScript, TypeScript, React, Next.js, Node.js, NestJS e Oracle/PLSQL.
 
-🏗️ Interesse e atuação em Arquitetura de Software, buscando desenvolver sistemas organizados, escaláveis, manuteníveis e testáveis, aplicando princípios de engenharia de software, boas práticas e padrões arquiteturais.
+🏗️ Interesse em Arquitetura de Software e Engenharia de Software, com foco na construção de soluções organizadas, escaláveis, manuteníveis e testáveis.
 
-🌱 Atualmente aprofundando conhecimentos em Arquitetura de Software, Cloud (AWS), DevOps e desenvolvimento de aplicações modernas.
+🌱 Atualmente aprofundando conhecimentos em Arquitetura de Software, Cloud, DevOps e tecnologias modernas de desenvolvimento.
 
 🖥️ Disponho de equipamento próprio, ambiente profissional adequado e infraestrutura preparada para atuação em regime remoto.
 
@@ -144,24 +144,22 @@ Olá! Eu sou o André Gonzaga.
 
 ## 💼 Projetos & Portfólio
 
-Além da experiência profissional, desenvolvo projetos práticos para aplicar e aprofundar conhecimentos em **Engenharia de Software, desenvolvimento Full Stack, Arquitetura de Software, Bancos de dados, Testes e DevOps**.
+Desenvolvo projetos práticos voltados à Engenharia de Software, desenvolvimento Full Stack, Arquitetura, integração de APIs, bancos de dados e qualidade de software.
 
-🔗 **[Acesse meu portfólio completo](https://portfoliobyandreg.vercel.app/)**
+🔗 **[Acesse meu portfólio](https://portfoliobyandreg.vercel.app/)**
 
-No portfólio estão disponíveis meus principais projetos, tecnologias utilizadas, decisões técnicas e detalhes sobre minha trajetória profissional e formação.
+Conheça meus projetos, tecnologias utilizadas, decisões técnicas e aplicações desenvolvidas.
 
-📄 **[Acesse meu currículo online](https://templateforcurriculumbyandregonzaga.netlify.app/)**
-
-Meu currículo online apresenta minha **trajetória profissional, formação, experiências, competências e cases profissionais estruturados pelo método STAR**, destacando situações, desafios, ações realizadas e resultados alcançados.
+📄 **[Acesse meu currículo](https://templateforcurriculumbyandregonzaga.netlify.app/)**
 
 <br/>
 
 ## ✨ Como eu trabalho
 
 - Código limpo, manutenível e testável
-- Aplicação de boas práticas de engenharia de software e arquitetura
-- Comunicação clara e colaboração em equipe
-- Foco em resolver problemas reais
+- Boas práticas de Engenharia de Software e arquitetura
+- Comunicação, colaboração e foco na resolução de problemas
+
 <br/>
 
 ## 📫 Contato
