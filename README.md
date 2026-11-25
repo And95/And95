@@ -23,6 +23,8 @@
       <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
       <br/><br/>
       APIs, serviços, regras de negócio e integrações.
+      <br/><br/>
+      <strong>REST APIs · GraphQL · Prisma ORM · JWT · Axios</strong>
     </td>
   </tr>
 
@@ -33,13 +35,17 @@
       <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
       <br/><br/>
       Modelagem, persistência, consultas e processamento de dados.
+      <br/><br/>
+      <strong>SQL · PL/SQL</strong>
     </td>
     <td align="center" width="50%">
-      <h3>🏗️ Software Architecture & Engineering</h3>
+      <h3>🏗️ Software Engineering & Architecture</h3>
       <br/>
       <strong>DDD · SOLID · Clean Code · Design Patterns</strong>
       <br/><br/>
-      Arquitetura, organização, qualidade e manutenibilidade de software.
+      <strong>Clean Architecture · Modular Architecture</strong>
+      <br/><br/>
+      Estruturação, modelagem de domínio, qualidade e manutenibilidade de software.
     </td>
   </tr>
 
@@ -50,12 +56,16 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="48"/>
       <br/><br/>
       Testes automatizados, validação e qualidade de software.
+      <br/><br/>
+      <strong>Vitest · React Testing Library</strong>
     </td>
     <td align="center" width="50%">
       <h3>☁️ DevOps & Cloud</h3>
       <img src="https://skillicons.dev/icons?i=docker,git,github,aws" />
       <br/><br/>
-      Containerização, versionamento, CI/CD e infraestrutura cloud.
+      Containerização, versionamento, pipelines e infraestrutura cloud.
+      <br/><br/>
+      <strong>CI/CD · S3 · CodeBuild · CodePipeline · Elastic Beanstalk</strong>
     </td>
   </tr>
 </table>
