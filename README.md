@@ -22,10 +22,13 @@
     <td align="center" valign="top" width="50%">
       <h3>⚙️ Backend Development</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+      <br/>
+      <img src="https://cdn.simpleicons.org/graphql/E10098" height="45" alt="GraphQL" />
+      <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="45" alt="Swagger" />
       <br/><br/>
       APIs, serviços, regras de negócio e integrações.
       <br/><br/>
-      <strong>REST APIs · GraphQL · Prisma ORM · TypeORM · JWT · Axios</strong>
+      <strong>REST APIs · GraphQL · Swagger · Prisma ORM · TypeORM · JWT · Axios</strong>
     </td>
   </tr>
   <tr>
