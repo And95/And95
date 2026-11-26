@@ -16,7 +16,7 @@
       <br/>
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,styledcomponents,mui" />
       <br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsap/gsap-original.svg" height="45" />
+      <img src="https://cdn.simpleicons.org/greensock/88CE02" height="45" alt="GSAP" />
       <br/><br/>
       Desenvolvimento de interfaces e aplicações web modernas.
     </td>
